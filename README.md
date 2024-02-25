@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @aperion101
-- 👀 I’m a blockchain engineer
+👋 Hi, I’m a blockchain engineer
